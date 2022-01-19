@@ -1,0 +1,21 @@
+{
+  "name": "myfirstapi",
+  "version": "1.0.0",
+  "description": "first api node",
+  "main": "Server.js",
+  "scripts": {
+    "test": "nodemon Server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "med363"
+  },
+  "author": "MedAmineBlibech",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongodb": "^4.2.2",
+    "mongoose": "^6.0.13",
+    "nodemon": "^2.0.15"
+  }
+}
